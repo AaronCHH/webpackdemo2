@@ -5,7 +5,7 @@ module.exports = {
   // 建置模式
   mode: 'development',
   // 入口
-  entry: './src/index.ts',
+  entry: './src/index.tsx',
   // 输出
 	output: {
 		filename: 'main.js',
